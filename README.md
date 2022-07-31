@@ -1,0 +1,2 @@
+# discordbot
+basic discord bot
