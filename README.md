@@ -1,2 +1,2 @@
 # discordbot
-basic discord bot
+A discord bot using NodeJS
